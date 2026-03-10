@@ -1,0 +1,9 @@
+#img-profile {
+  width: 50px;
+  object-fit: cover;
+}
+
+.img-zep {
+  width: 100%;
+  object-fit: cover;
+}
